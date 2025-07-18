@@ -29,7 +29,7 @@ export default function About() {
             <div className="flex flex-col sm:flex-row gap-6">
               <div className="border border-gray-400 dark:border-white rounded-3xl p-6 text-center flex-1">
                 <h3 className="text-xl font-semibold text-gray-800">🎯 Experience</h3>
-                <p className="text-base md:text-lg text-gray-600">PwC Intern</p>
+                <p className="text-base md:text-lg text-gray-600">PwC Launchpad Intern</p>
               </div>
               <div className="border border-gray-400 dark:border-white rounded-3xl p-6 text-center flex-1">
                 <h3 className="text-xl font-semibold text-gray-800">🎓 Education</h3>

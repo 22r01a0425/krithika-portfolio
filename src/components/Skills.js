@@ -39,7 +39,7 @@ export default function Skills() {
   return (
     <section
       id="skills"
-      className="scroll-mt-24 bg-neutral-100 text-black py-20 px-6 sm:px-10 md:px-20"
+      className="scroll-mt-24 bg-neutral-100 text-indigo-600 py-20 px-6 sm:px-10 md:px-20"
     >
       <div className="max-w-6xl mx-auto text-center">
         <h2 className="text-4xl font-bold text-black-600 mb-12">Skills</h2>

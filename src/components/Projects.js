@@ -27,10 +27,10 @@ export default function Projects() {
   return (
     <section
       id="projects"
-      className="scroll-mt-24 bg-white text-black py-20 px-6 sm:px-10 md:px-20"
+      className="scroll-mt-24 bg-white dark:bg-neutral-900 text-black dark:text-white py-20 px-6 sm:px-10 md:px-20"
     >
       <div className="max-w-6xl mx-auto">
-        <h2 className="text-4xl font-bold text-indigo-400 text-center mb-12">
+        <h2 className="text-4xl font-bold text-indigo-600 text-center mb-12">
           Projects
         </h2>
 

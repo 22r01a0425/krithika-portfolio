@@ -41,7 +41,7 @@ export default function Hero() {
             rel="noopener noreferrer"
             className="px-6 py-2 rounded-full bg-indigo-600 hover:bg-indigo-700 text-white font-semibold shadow-md transition transform hover:scale-105"
           >
-            Download CV
+            Download Resume
           </a>
           <a
             href="#contact"
